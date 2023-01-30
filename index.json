@@ -1,9 +1,9 @@
 {
     "index_type":"SFUPDATERINDEX",
-    "version":1.0,
+    "index_style_version":1.0,
     "versions": {
         "latestversion":0.1,
         "downloadlink":"empty_link",
         "sha-1":"sha_string_here"
     }
-    }
+}
